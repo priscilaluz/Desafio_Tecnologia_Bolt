@@ -12,7 +12,7 @@ Destaca-se que foram feitos testes automatizados para validar o service da aplic
 - Postman
 
 # Como rodar
-- Abrir o projeto no Netbeans
+- Abrir o projeto sequencia-api no Netbeans
 - Fazer o "Clean and Build"
 - Executar a classe SequenciaApiApplication.java
 
